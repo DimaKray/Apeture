@@ -1,0 +1,75 @@
+body {
+   font-family: "poppins";
+   font-weight: 400;
+   background-color: #000000;;
+}
+h1 {
+   font-size: 54px;
+   line-height: 59px;
+   color: #FFFFFF;
+}
+h2 {
+   font-size: 40px;
+   line-height: 42px;
+   color: #FFFFFF;
+}
+.frame-1 {
+   background-image: url(../img/image-rame-1.png);
+   height: 716px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.shadow-text {
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #C0C0C0;
+}
+.text {
+   font-size: 14px;
+   line-height: 20px;
+   color: #C0C0C0;
+}
+.text-big {
+   font-size: 23px;
+   line-height: 30px;
+   color: #C0C0C0;
+}
+.img1 {
+   background: url(../img/preview-img-1.png);
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.img2 {
+   background: url(../img/preview-img-2.png);
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.img3 {
+   background: url(../img/preview-img-3.png);
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.img4 {
+   background: url(../img/preview-img-4.png);
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.img-title {
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+.prob {
+   position: relative;
+}
+.img-caption {
+   top: -100;
+}
